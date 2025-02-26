@@ -9,19 +9,19 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "243891716833"
-global.ownername = "🌹MR KEVIN TSH🌹"
+global.ownernomer = "241062197960"
+global.ownername = "🌹✟jordan 𝗔𝗣𝗧🌹"
 global.ytname = "YT: alvinblaste...13"
 global.socialm = "GitHub: Kevin-Tsh"
-global.location = "Cong Kinshasa, Haut Katanga, Lubumbashi"
+global.location = "Gabon, Libreville, Akanda"
 
-global.ownernumber = '243891716833'  //creator number
-global.ownername = '🌹𝐌𝐑.𝐊É𝐕𝐈𝐍 𝐓𝐒𝐇🌹' //owner name
+global.ownernumber = '241062197960'  //creator number
+global.ownername = '🌹✟jordan 𝗔𝗣𝗧🌹' //owner name
 global.botname = '🐲⸢𝐆𝐎𝐊𝐔-𝐌𝐃⸥🐲' //name of the bot
 
 //sticker details
-global.packname = 'FML-GRIMM🐲🌹'
-global.author = '𝐌𝐑.𝐊É𝐕𝐈𝐍 𝐓𝐒𝐇'
+global.packname = '🌹✟jordan 𝗔𝗣𝗧🌹'
+global.author = '🌹✟jordan 𝗔𝗣𝗧🌹'
 
 //console view/theme
 global.themeemoji = '🌹'
